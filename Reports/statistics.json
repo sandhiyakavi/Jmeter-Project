@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 982,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 209.50305498981663,
+    "medianResTime" : 209.0,
+    "minResTime" : 171.0,
+    "maxResTime" : 610.0,
+    "pct1ResTime" : 262.0,
+    "pct2ResTime" : 270.8499999999999,
+    "pct3ResTime" : 365.16999999999996,
+    "throughput" : 3.2869962812088915,
+    "receivedKBytesPerSec" : 1.8190586161477877,
+    "sentKBytesPerSec" : 1.7378748079517194
+  },
+  "SoapCalc_sub" : {
+    "transaction" : "SoapCalc_sub",
+    "sampleCount" : 491,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 209.02647657841138,
+    "medianResTime" : 208.0,
+    "minResTime" : 171.0,
+    "maxResTime" : 610.0,
+    "pct1ResTime" : 262.8,
+    "pct2ResTime" : 271.4,
+    "pct3ResTime" : 367.31999999999954,
+    "throughput" : 1.645878097753762,
+    "receivedKBytesPerSec" : 0.9270994740145682,
+    "sentKBytesPerSec" : 0.8782158626948823
+  },
+  "SoapCalc_add" : {
+    "transaction" : "SoapCalc_add",
+    "sampleCount" : 491,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 209.97963340122203,
+    "medianResTime" : 210.0,
+    "minResTime" : 171.0,
+    "maxResTime" : 595.0,
+    "pct1ResTime" : 262.0,
+    "pct2ResTime" : 270.4,
+    "pct3ResTime" : 369.27999999999935,
+    "throughput" : 1.6434981406044458,
+    "receivedKBytesPerSec" : 0.8932997377850599,
+    "sentKBytesPerSec" : 0.8609288546893253
+  }
+}
