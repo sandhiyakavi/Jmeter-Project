@@ -4,4 +4,6 @@ Used CSV Data Set Config element for the data driven testing
 Used constant timer to add fixed delays.
 Used listeners to display the results.
 Used assertions to check the response.
-can run the code in command line using: jmeter -n -t { .jmx file location} -l {Results folder location} -e -o {Reports folder location}
+
+
+Can run the code in command line using: jmeter -n -t { .jmx file location} -l {Results folder location} -e -o {Reports folder location}
